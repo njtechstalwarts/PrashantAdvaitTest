@@ -27,7 +27,6 @@
 		BDF5DDC52BCAE23D00F3428A /* Combine+AsyncAwait.swift in Sources */ = {isa = PBXBuildFile; fileRef = BDF5DDC42BCAE23D00F3428A /* Combine+AsyncAwait.swift */; };
 		BDF5DDCE2BCAFCB100F3428A /* ImageViewerViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = BDF5DDCC2BCAFCB100F3428A /* ImageViewerViewController.swift */; };
 		BDF5DDCF2BCAFCB100F3428A /* ImageViewerViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = BDF5DDCD2BCAFCB100F3428A /* ImageViewerViewController.xib */; };
-		BDF5DDD12BCCF11100F3428A /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = BDF5DDD02BCCF11100F3428A /* README.md */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -53,7 +52,6 @@
 		BDF5DDC42BCAE23D00F3428A /* Combine+AsyncAwait.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "Combine+AsyncAwait.swift"; sourceTree = "<group>"; };
 		BDF5DDCC2BCAFCB100F3428A /* ImageViewerViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImageViewerViewController.swift; sourceTree = "<group>"; };
 		BDF5DDCD2BCAFCB100F3428A /* ImageViewerViewController.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = ImageViewerViewController.xib; sourceTree = "<group>"; };
-		BDF5DDD02BCCF11100F3428A /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -86,7 +84,6 @@
 		BDD171CF2BCACD2F002955C6 /* PhotoListApp */ = {
 			isa = PBXGroup;
 			children = (
-				BDF5DDD02BCCF11100F3428A /* README.md */,
 				BDD171D02BCACD2F002955C6 /* AppDelegate.swift */,
 				BDD171D22BCACD2F002955C6 /* SceneDelegate.swift */,
 				BDF5DDA82BCACF9900F3428A /* ImageCache */,
@@ -234,7 +231,6 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				BDF5DDD12BCCF11100F3428A /* README.md in Resources */,
 				BDD171DA2BCACD32002955C6 /* Assets.xcassets in Resources */,
 				BDF5DDB22BCAD38600F3428A /* PhotoCollectionViewCell.xib in Resources */,
 				BDF5DDCF2BCAFCB100F3428A /* ImageViewerViewController.xib in Resources */,
